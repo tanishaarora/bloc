@@ -1,5 +1,5 @@
 import 'package:flutter/material.dart';
-import 'features/home/ui/home.dart';
+import 'package:state_managementusing_bloc/features/home/ui/home.dart';
 
 void main(){
   runApp(MyApp());

@@ -1,6 +1,6 @@
 {
-    "name": "bloc",
-    "short_name": "bloc",
+    "name": "state_managementusing_bloc",
+    "short_name": "state_managementusing_bloc",
     "start_url": ".",
     "display": "standalone",
     "background_color": "#0175C2",
